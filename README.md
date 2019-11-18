@@ -1,4 +1,4 @@
-##LDAP (FreeIPA)
+#  LDAP (FreeIPA)
 
 client_install.yml - playbook для развертывания freeipa-клиента.
 
